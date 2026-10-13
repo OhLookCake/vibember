@@ -1,36 +1,36 @@
 VIBEMBER: 01-30 NOVEMBER
 Vibe code something every day.
 
-01 Midnight
-02 Speech
+01 Magic
+02 Show
 03 Pixel
-04 Magic
+04 Secret
 05 Pocket
 06 Gravity
-07 Safe
-08 Glass
-09 Secret
-10 Ghost
-11 Market
-12 Face
-13 Drop
-14 Thread
-15 Human
-16 Echo
-17 Office
-18 Memory
-19 Speed
-20 Neighbour
-21 Window
-22 Electric
-23 Detour
-24 Island
-25 Redo
-26 Static
-27 Postcard
-28 Magnet
+07 Mesh
+08 Face
+09 Train
+10 Connect
+11 Magnet
+12 Holiday
+13 Bar
+14 Human
+15 Free
+16 Memory
+17 Speed
+18 Electric
+19 Time
+20 Ghost
+21 Echo
+22 Drop
+23 Tune
+24 Window
+25 Double
+26 Redo
+27 Together
+28 Language
 29 Walk
-30 Home
+30 Finish
 
 Take it literally, follow a strange association, or go somewhere else entirely.
 Make a thing. Share it with #vibember. Repeat at your own pace.
